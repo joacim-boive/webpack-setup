@@ -17,7 +17,7 @@ module.exports = (env = {}) => {
                         {
                             loader: 'file-loader',
                             options: {
-                                name: 'bunde.[name].[hash:8].css',
+                                name: 'bunde.style.[hash:8].css',
                             }
                         },
                         {
