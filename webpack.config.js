@@ -1,3 +1,5 @@
+// https://florianbrinkmann.com/en/4240/sass-webpack/
+
 const path = require('path');
 
 module.exports = (env = {}) => {
